@@ -38,49 +38,49 @@
     {
       "id": 6,
       "name": "Corrente Auron",
-      "image": "/images/products/produto-6.jpg",
+      "image": "images/products/produto-6.jpg",
       "rating": 5,
       "price": 659
     },
     {
       "id": 7,
       "name": "Corrente Clyss",
-      "image": "/images/products/produto-7.jpg",
+      "image": "images/products/produto-7.jpg",
       "rating": 4,
       "price": 599
     },
     {
       "id": 8,
       "name": "Corrente Zyro",
-      "image": "/images/products/produto-8.jpg",
+      "image": "images/products/produto-8.jpg",
       "rating": 4,
       "price": 699
     },
     {
       "id": 9,
       "name": "Corrente Savion",
-      "image": "/images/products/produto-9.jpg",
+      "image": "images/products/produto-9.jpg",
       "rating": 5,
       "price": 45000
     },
     {
       "id": 10,
       "name": "Orlen Lumière",
-      "image": "/images/products/produto-10.jpg",
+      "image": "images/products/produto-10.jpg",
       "rating": 5,
       "price": 1400
     },
     {
       "id": 11,
       "name": "Argon Belmonde",
-      "image": "/images/products/produto-11.jpg",
+      "image": "images/products/produto-11.jpg",
       "rating": 5,
       "price": 5500
     },
     {
       "id": 12,
       "name": "Dominus Signum",
-      "image": "/images/products/produto-12.jpg",
+      "image": "images/products/produto-12.jpg",
       "rating": 5,
       "price": 5500
     }
