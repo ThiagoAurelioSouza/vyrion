@@ -3,35 +3,35 @@
     {
       "id": 1,
       "name": "Relógio de Ouro Rochevelle",
-      "image": "/images/products/produto-1.jpg",
+      "image": "images/products/produto-1.jpg",
       "rating": 4,
       "price": 4000
     },
     {
       "id": 2,
       "name": "Relógio de Ouro M. Du Temps",
-      "image": "/images/products/produto-2.jpg",
+      "image": "images/products/produto-2.jpg",
       "rating": 5,
       "price": 5000
     },
     {
       "id": 3,
       "name": "Relógio Montrovia Ômega",
-      "image": "/images/products/produto-3.jpg",
+      "image": "images/products/produto-3.jpg",
       "rating": 5,
       "price": 4000
     },
     {
       "id": 4,
       "name": "Relógio Montrovia",
-      "image": "/images/products/produto-4.jpg",
+      "image": "images/products/produto-4.jpg",
       "rating": 3,
       "price": 1500
     },
     {
       "id": 5,
       "name": "Corrente Le Sablier",
-      "image": "/images/products/produto-5.jpg",
+      "image": "images/products/produto-5.jpg",
       "rating": 5,
       "price": 715
     },
