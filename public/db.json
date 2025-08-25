@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Relógio de Ouro Rochevelle",
+      "image": "public/images/products/produto-1.jpg",
+      "rating": 4,
+      "price": 4000
+    },
+    {
+      "id": 2,
+      "name": "Relógio de Ouro M. Du Temps",
+      "image": "public/images/products/produto-2.jpg",
+      "rating": 5,
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "name": "Relógio Montrovia Ômega",
+      "image": "public/images/products/produto-3.jpg",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 4,
+      "name": "Relógio Montrovia",
+      "image": "public/images/products/produto-4.jpg",
+      "rating": 3,
+      "price": 1500
+    },
+    {
+      "id": 5,
+      "name": "Corrente Le Sablier",
+      "image": "public/images/products/produto-5.jpg",
+      "rating": 5,
+      "price": 715
+    },
+    {
+      "id": 6,
+      "name": "Corrente Auron",
+      "image": "public/images/products/produto-6.jpg",
+      "rating": 5,
+      "price": 659
+    },
+    {
+      "id": 7,
+      "name": "Corrente Clyss",
+      "image": "public/images/products/produto-7.jpg",
+      "rating": 4,
+      "price": 599
+    },
+    {
+      "id": 8,
+      "name": "Corrente Zyro",
+      "image": "public/images/products/produto-8.jpg",
+      "rating": 4,
+      "price": 699
+    },
+    {
+      "id": 9,
+      "name": "Corrente Savion",
+      "image": "public/images/products/produto-9.jpg",
+      "rating": 5,
+      "price": 45000
+    },
+    {
+      "id": 10,
+      "name": "Orlen Lumière",
+      "image": "public/images/products/produto-10.jpg",
+      "rating": 5,
+      "price": 1400
+    },
+    {
+      "id": 11,
+      "name": "Argon Belmonde",
+      "image": "public/images/products/produto-11.jpg",
+      "rating": 5,
+      "price": 5500
+    },
+    {
+      "id": 12,
+      "name": "Dominus Signum",
+      "image": "public/images/products/produto-12.jpg",
+      "rating": 5,
+      "price": 5500
+    }
+  ]
+}
